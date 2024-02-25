@@ -1,0 +1,10 @@
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\obj\Debug\Trabajo Archivos Maldonado-Pairetti.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\obj\Debug\Trabajo_Archivos_Maldonado_Pairetti.Form1.resources
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\obj\Debug\Trabajo_Archivos_Maldonado_Pairetti.Properties.Resources.resources
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\obj\Debug\Trabajo Archivos Maldonado-Pairetti.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\obj\Debug\Trabajo Archivos Maldonado-Pairetti.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\bin\Debug\Trabajo Archivos Maldonado-Pairetti.exe.config
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\bin\Debug\Trabajo Archivos Maldonado-Pairetti.exe
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\bin\Debug\Trabajo Archivos Maldonado-Pairetti.pdb
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\obj\Debug\Trabajo Archivos Maldonado-Pairetti.exe
+C:\Users\valen\OneDrive\Desktop\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti\obj\Debug\Trabajo Archivos Maldonado-Pairetti.pdb

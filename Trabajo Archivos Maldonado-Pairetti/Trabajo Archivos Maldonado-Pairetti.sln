@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabajo Archivos Maldonado-Pairetti", "Trabajo Archivos Maldonado-Pairetti\Trabajo Archivos Maldonado-Pairetti.csproj", "{CBFA71D7-0F16-40AE-9136-78D4FA04CE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFA71D7-0F16-40AE-9136-78D4FA04CE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFA71D7-0F16-40AE-9136-78D4FA04CE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFA71D7-0F16-40AE-9136-78D4FA04CE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFA71D7-0F16-40AE-9136-78D4FA04CE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4A6B06-12B3-463B-88DD-E158078D6191}
+	EndGlobalSection
+EndGlobal
